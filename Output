@@ -1,0 +1,44 @@
+$ g++ RSA.cpp
+$ a.out
+ 
+ 
+ENTER FIRST PRIME NUMBER
+47
+ 
+ENTER ANOTHER PRIME NUMBER
+53
+ 
+ENTER MESSAGE
+Dharmendra
+ 
+POSSIBLE VALUES OF e AND d ARE
+3	  1595
+5  	957
+7	  1367
+11 	435
+17	985
+19	1259
+29	165
+31	463
+37	1293
+41	2217
+43	1947
+59	1419
+61	549
+67	2035
+71	1415
+73	1409
+79	1847
+83	2075
+89	2177
+97	1233
+101	1421
+103	2183
+ 
+THE ENCRYPTED MESSAGE IS
+x`a???]??a
+THE DECRYPTED MESSAGE IS
+Dharmendra
+------------------
+(program exited with code: 0)
+Press return to continue
